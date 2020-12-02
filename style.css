@@ -1,0 +1,28 @@
+.a {
+    text-transform: lowercase;
+    letter-spacing: 32px;
+  }
+
+.b {
+    text-decoration: underline;
+}
+
+.c {
+    font-size: 20px;
+}
+
+.d {
+    color: #800080;
+}
+
+.e {
+    font-weight: bold;
+}
+
+.f:first-letter{
+    font-family: cursive;
+  }
+
+.g {
+    text-shadow: 1px 1px #000000;
+}

@@ -1,0 +1,15 @@
+.masodikszo {
+    font-size: 24px;
+}
+.harmadikszo {
+
+text-decoration: underline;
+}
+.b {
+    text-decoration: line-through;
+    color:yellow;
+}
+.cica {
+    background-color: blue;
+    color:white;
+}
